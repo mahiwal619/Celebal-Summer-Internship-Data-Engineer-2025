@@ -1,1 +1,1 @@
-# CSI-assignment-Week6
+# Celebal Summer Internship — Data Engineer 2025 🌐
