@@ -1,11 +1,11 @@
 {
-    "trip_id": 101,
+    "trip_id": 81,
     "driver": {
-      "name": "Manan Pujra",
-      "license": "XYZ1234"
+      "name": "Mahiwal Vaishnav",
+      "license": "VER3381"
     },
     "fare": {
-      "amount": 25.0,
+      "amount": 27.0,
       "tip": 3.0
     }
   }
